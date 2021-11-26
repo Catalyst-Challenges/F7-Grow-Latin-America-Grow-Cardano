@@ -1,7 +1,7 @@
 ---
 title: F7 - Grow Latin America, Grow Cardano
 description: How do we grow the Cardano ecosystem in Latin America?
-Ideascale: https://cardano.ideascale.com/a/campaign-home/26233
+Ideascale: https://cardano.ideascale.com/a/campaign-home/26242
 ---
 ![2021-11-26 (6)](https://user-images.githubusercontent.com/25156451/143626929-cd84f081-ae12-4320-b3da-dc1075424aef.png)
 
